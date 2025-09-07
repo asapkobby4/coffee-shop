@@ -1,7 +1,0 @@
-[
-    { "id": 1, "name": "Espresso", "price": 3 },
-    { "id": 2, "name": "Latte", "price": 4 },
-    { "id": 3, "name": "Cappuccino", "price": 4 },
-    { "id": 4, "name": "Mocha", "price": 5 },
-    { "id": 5, "name": "Tea", "price": 2 }
-    ]
